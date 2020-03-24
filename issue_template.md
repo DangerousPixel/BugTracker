@@ -1,9 +1,6 @@
-### Fuze version? (Ex. Fuze 0.1.0a)
-
-### macOS Version? (Ex. mac 10.15)
+### Fuze version? 0.1.2 (1)
+### macOS Version? 10.15.3
 
 ### Steps to reproduce 
-
-### Expected behavior
-
-### Screenshots (optional)
+when click "decrypt" it says " we encountered an error while reading from device . Please insure your iphone is unlocked or reattach and try again"
+passcode removed and same problem .
